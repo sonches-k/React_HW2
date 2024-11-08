@@ -1,0 +1,15 @@
+
+.navigation-bar {
+  background-color: #cf6bb8; 
+  padding: 10px; 
+}
+
+.nav-links {
+  list-style-type: none; 
+}
+
+.nav-item {
+  display: inline-block; 
+  margin-right: 15px; 
+}
+
